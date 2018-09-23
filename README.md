@@ -1,2 +1,3 @@
 # IntrinioApi
-Calling to the intrinio api
+Initialize the object by doing
+`i = intrinio(username, password)`
